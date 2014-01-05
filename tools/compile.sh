@@ -1,0 +1,1 @@
+g++ -ggdb -std=c++0x -o $1 $1.cpp
