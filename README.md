@@ -1,4 +1,6 @@
 TimusOnlineJudge
 ================
 
-Implement of Timus online judge algrithm problem. File name of each file in src is Timus online judge's problem ID.
+Implement of Timus, codeforces and leetcode online judge algrithm problem.
+
+Leetcode: src/leetcode. File name is the problem name.
